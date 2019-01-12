@@ -1,0 +1,6 @@
+------------------------
+-Mobile Map Application-
+------------------------
+
+-Investigate image compression and scaling techniques to lower memory usage
+-Loading screen requires more accuracy with a progress bar
